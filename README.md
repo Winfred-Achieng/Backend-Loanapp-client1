@@ -43,7 +43,8 @@ Follow these steps to set up and run the Loan App Backend on your local machine.
 1. **Build Docker images for each microservice:**
 
     ```bash
-    docker build -t loan-service:latest ./loan-service
+    docker build -t loan-service-client1:latest ./loan-service-client1
+    docker build -t loan-service-client2:latest ./loan-service-client2
     docker build -t gateway-service:latest ./gateway-service
     docker build -t eureka-service:latest ./eureka-service
     ```
