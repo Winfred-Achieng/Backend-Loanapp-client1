@@ -1,6 +1,6 @@
 # Loan App Backend
 
-This backend system is developed using Java Spring Boot, incorporates microservices architecture, Zuul for API gateway, and Eureka server for service registration and discovery. Additionally, the entire application has been containerized using Docker for seamless deployment.
+This backend system is developed using Java Spring Boot and incorporates microservices architecture, Zuul for API gateway, and Eureka server for service registration and discovery. Additionally, the entire application has been containerized using Docker for seamless deployment.
 
 ## Features
 
